@@ -1,0 +1,20 @@
+---
+title: "Car Compare Tool"
+author: "David J Ruyle"
+date: "February 22, 2015"
+output: html_document
+---
+
+##How to Use "Car Compare"
+
+### Radio Button
+Select Manual or Automatic Transmission
+
+### Use the Slider
+To select the range of MPG you would like for the models you would like to compare
+
+### Drop-Down List of Features
+Use the drop down to select from the list of features you would to compare such as "cyl"
+ for number of cylinders. The graph to the right with dynamically populate to compare the collection of cars in the "mtcars" dataset. 
+ 
+
