@@ -21,5 +21,11 @@ shinyUI(fluidPage(
     
     mainPanel(h4("View stats:"),
               
-              plotOutput("plot1")
+              plotOutput("plot1"),
+              helpText(   a("Click Here for Help", href="https://github.com/davidjruyle/data_products_app/blob/master/documentation.Rmd")
+              )
   ))))
+
+
+
+  
